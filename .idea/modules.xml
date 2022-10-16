@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/BlueLambdaTraining.iml" filepath="$PROJECT_DIR$/.idea/BlueLambdaTraining.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlueLambdaTraining_10.iml" filepath="$PROJECT_DIR$/.idea/BlueLambdaTraining_10.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlueLambda10.iml" filepath="$PROJECT_DIR$/.idea/BlueLambda10.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlueLambdaTraining_10.iml" filepath="$PROJECT_DIR$/.idea/BlueLambdaTraining_10.iml" />
+>>>>>>> origin/Prod
+>>>>>>> origin/Prod
+>>>>>>> origin/Prod
     </modules>
   </component>
 </project>
