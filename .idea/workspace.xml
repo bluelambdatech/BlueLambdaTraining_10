@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="93eaa183-8e3e-4c76-a1bf-2c1934548d3a" name="Changes" comment="List, tuple and dictionary" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,8 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="Prod" />
+
+
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,12 +29,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Fr4XAPnWFkOJK5oroZ5WBoyOAo" />
+
+  <component name="ProjectId" id="2Frr2iQKfcUDudvL5DgnIHU0vVs" />
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -61,6 +68,20 @@
     </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BlueLambda10" />
+
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/usr/bin/python3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BlueLambdaTraining" />
+
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -85,12 +106,14 @@
         <item itemvalue="Python.run" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.run" />
+
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+
       <changelist id="93eaa183-8e3e-4c76-a1bf-2c1934548d3a" name="Changes" comment="" />
       <created>1665236906038</created>
       <option name="number" value="Default" />
@@ -133,6 +156,36 @@
       <updated>1665846302804</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+
+      <changelist id="a045467f-b253-4cb2-8075-b4c893a13f39" name="Changes" comment="" />
+      <created>1665260840006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665260840006</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1665350066477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665350066477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1665920228463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665920228464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test">
+      <created>1665944252679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665944252679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,10 +200,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating new Branches" />
-    <MESSAGE value="Creating new file" />
-    <MESSAGE value="String and List done in class" />
-    <MESSAGE value="List, tuple and dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="List, tuple and dictionary" />
+
   </component>
 </project>
