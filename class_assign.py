@@ -48,5 +48,3 @@ def assign_2(statement):
 
 
 x, y = assign_2('The quick Brow Fox')
-
-print(x)
