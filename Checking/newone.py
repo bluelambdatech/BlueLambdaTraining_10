@@ -1,1 +1,1 @@
-import Checking.notte as cn
+import BlueLambdaTraining_10.example as Bexam
